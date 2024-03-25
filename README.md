@@ -1,9 +1,7 @@
-
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/V1niciusDG" />
-&nbsp;&nbsp;&nbsp;
+# Hello! 👋
 
 
-<p align="center">I'm another technology enthusiast, I definitely entered the market in July 2023. Currently, I work as a software developer, focusing mainly on the back-end. However, I'm seeking to broaden my skill set in front-end development as well..</p>&nbsp;
+<p align="center">Welcome to my GitHub profile! I'm Vinicius, another technology enthusiast, I definitely entered the market in July 2023. Currently, I work as a software developer, focusing mainly on the back-end. However, I'm seeking to broaden my skill set in front-end development as well.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=V1niciusDG&theme=radical&mode=weekly" />
