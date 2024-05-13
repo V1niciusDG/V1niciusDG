@@ -4,8 +4,8 @@
 <p align="center">Welcome to my GitHub profile! I'm Vinicius, another technology enthusiast, I definitely entered the market in July 2023. Currently, I work as a software developer, focusing mainly on the back-end. However, I'm seeking to broaden my skill set in front-end development as well.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=V1niciusDG&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-eight-topaz-33.vercel.app/api/top-langs/?username=V1niciusDG&show_icons=true&theme=radical&layout=compact" />
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=V1niciusDG&theme=highcontrast&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-eight-topaz-33.vercel.app/api/top-langs/?username=V1niciusDG&show_icons=true&theme=highcontrast&layout=compact" />
  </div>
  
  &nbsp;
